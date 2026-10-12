@@ -1,0 +1,12 @@
+{
+  "_note": "Mirror of the Wix CMS collection `FAQs` (read 2026-10-12).",
+  "collectionId": "FAQs",
+  "faqs": [
+    { "sortOrder": 1, "category": "Quotes", "title": "How do I get a quote?", "answer": "Tap Get FREE Quote, call or text us, and tell us what needs to go. Photos help. We'll get back to you with a straight quote, no surprises." },
+    { "sortOrder": 2, "category": "Scheduling", "title": "How fast can you come?", "answer": "Request a free quote and tell us your timeline. We'll work with you to find a time that fits." },
+    { "sortOrder": 3, "category": "Scheduling", "title": "Do I need to be home?", "answer": "Not always. Tell us about your job when you request a quote and we'll let you know what we need." },
+    { "sortOrder": 4, "category": "What We Take", "title": "What do you haul away?", "answer": "Furniture, appliances, household junk, construction and demolition debris, yard waste, brush, roofing debris and more. If you're not sure, ask us. No job is too big or too small." },
+    { "sortOrder": 5, "category": "What We Take", "title": "Do you haul hazardous waste?", "answer": "We can't take hazardous materials such as paint, chemicals or fuel, or medical waste. Not sure about an item? Call or text and ask before we come out." },
+    { "sortOrder": 6, "category": "Service Area", "title": "What areas do you serve?", "answer": "We serve the Central Texas area. Not sure if we come to you? Call or text and ask." }
+  ]
+}

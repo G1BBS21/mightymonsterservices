@@ -41,21 +41,24 @@
       "name": "Privacy Policy",
       "path": "/privacy-policy",
       "seoTitle": "Privacy Policy | Mighty Monster Services",
-      "seoDescription": "Learn how Mighty Monster Services collects, uses and protects your information when you visit our website or request a free quote."
+      "seoDescription": "Learn how Mighty Monster Services collects, uses and protects your information when you visit our website or request a free quote.",
+      "contentStatus": "placeholder: Wix default text, needs client-approved copy"
     },
     {
       "pageId": "ct78j",
       "name": "Terms & Conditions",
       "path": "/terms-and-conditions",
       "seoTitle": "Terms & Conditions | Mighty Monster Services",
-      "seoDescription": "Terms and conditions for using the Mighty Monster Services website and requesting hauling and cleanup services in Central Texas."
+      "seoDescription": "Terms and conditions for using the Mighty Monster Services website and requesting hauling and cleanup services in Central Texas.",
+      "contentStatus": "placeholder: Wix default text, needs client-approved copy"
     },
     {
       "pageId": "prcey",
       "name": "Accessibility Statement",
       "path": "/accessibility-statement",
       "seoTitle": "Accessibility Statement | Mighty Monster Services",
-      "seoDescription": "Mighty Monster Services is committed to making our website accessible to everyone. Read our accessibility statement or contact us for help."
+      "seoDescription": "Mighty Monster Services is committed to making our website accessible to everyone. Read our accessibility statement or contact us for help.",
+      "contentStatus": "placeholder: Wix default text, needs client-approved copy"
     }
   ]
 }

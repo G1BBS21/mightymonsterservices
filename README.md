@@ -4,8 +4,8 @@ Brand, design and content rules for the [Mighty Monster Services](https://cedars
 website, a Wix Studio site for a family-owned hauling, junk removal and property services
 company in Central Texas.
 
-**Start with [`CLAUDE.md`](CLAUDE.md).** It explains how this repo and the Wix site stay in sync
-and where everything lives.
+**Start with [`CLAUDE.md`](CLAUDE.md)**, then [`OPEN_ITEMS.md`](OPEN_ITEMS.md). They explain how
+this repo and the Wix site stay in sync, where everything lives, and what's unresolved.
 
 ## What this repo is (and isn't)
 
@@ -14,9 +14,9 @@ styling stay in the Studio editor. This repo holds everything that *decides* how
 should look and read, in a form people and Claude can review, diff and version:
 
 - `brand/` — voice, required phrases, CTAs
-- `design/` — layout rules and theme tokens
+- `design/` — layout rules, theme tokens and the image asset map
 - `site/` — Wix IDs, apps, and the page inventory with SEO metadata
-- `content/` — services and form definitions
+- `content/` — services, FAQs, CMS collections and form definitions
 - `seo/` — SEO rules, checked by `scripts/check-seo.mjs`
 
 ## Site code (optional, later)

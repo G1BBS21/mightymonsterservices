@@ -1,0 +1,102 @@
+{
+  "_note": "Mirror of the Wix CMS collection `Services` (current site copy, read 2026-10-12). Not marked approved: Studio has no approval status. Edit here first, then update the CMS item.",
+  "collectionId": "Services",
+  "services": [
+    {
+      "sortOrder": 1,
+      "title": "Hauling & Junk Removal",
+      "slug": "hauling-junk-removal",
+      "featured": true,
+      "tagline": "Furniture, appliances, clean-outs and everything you're tired of looking at.",
+      "intro": "Got a garage full of boxes, an old couch, or a pile of stuff you're tired of looking at? Our family crew does the heavy lifting. We load everything ourselves, haul it away and leave your space clean. Whether it's a single item, a full cleanout or an estate or move-out, you'll get a straight quote before we start. Request your free quote and tell us what needs to go.",
+      "benefits": ["We do all the loading", "Friendly, dependable family crew", "Straight quote before we start", "We leave the space clean"],
+      "weTake": ["Furniture and mattresses", "Appliances", "Household junk and clutter", "Garage, attic and storage cleanouts", "Yard waste and general debris", "Boxes, cardboard and miscellaneous items"],
+      "weCantTake": ["Hazardous materials (paint, chemicals, fuel)", "Medical or biohazard waste", "Explosives or ammunition", "Asbestos-containing materials"],
+      "heroImage": "https://static.wixstatic.com/media/5dcc7b_572d4e83027a4740a2751d615c45ede8~mv2.png"
+    },
+    {
+      "sortOrder": 2,
+      "title": "Job Site Cleanup",
+      "slug": "construction-demolition-cleanup",
+      "featured": true,
+      "tagline": "Job-site and remodel debris handled so you can keep working.",
+      "intro": "Remodels and demolition leave a mess, and we help you clear it so the work keeps moving. We haul drywall, lumber, flooring, concrete and other construction debris from residential and light commercial job sites. Schedule a one-time pickup or recurring visits through the project, and our crew and equipment are sized for heavy loads. We leave the site clean and safe. Request a free quote for your job.",
+      "benefits": ["Flexible scheduling", "One-time and recurring pickups", "Crew and equipment sized for heavy loads", "Clean, safe job sites"],
+      "weTake": ["Drywall and framing lumber", "Flooring, tile and carpet", "Concrete, brick and masonry", "Cabinets and fixtures", "Demolition debris", "General construction waste"],
+      "weCantTake": ["Hazardous materials (paint, solvents, chemicals)", "Asbestos-containing materials", "Medical or biohazard waste"],
+      "heroImage": "https://static.wixstatic.com/media/5dcc7b_fc56f8afb86343a48e159c7edbeba823~mv2.png"
+    },
+    {
+      "sortOrder": 3,
+      "title": "Property & Yard Cleanup",
+      "slug": "property-yard-cleanup",
+      "featured": true,
+      "tagline": "Overgrowth, storm cleanup and full property clean-ups, start to finish.",
+      "intro": "From overgrown lots and storm damage to full property cleanups, we handle it from start to finish. Our crew clears debris, hauls it away and leaves the space tidy, with respect for your property and belongings. We work with homeowners, landlords, property managers and realtors across Central Texas. Tell us what needs to go and request your free quote.",
+      "benefits": ["One crew handles the whole space", "Respectful of your property and belongings", "Works for homeowners, landlords and realtors", "Clean finish"],
+      "weTake": ["Yard waste and overgrowth", "Storm debris", "Brush, limbs and leaves", "Old fencing and lumber", "Trash and abandoned items", "General property cleanup debris"],
+      "weCantTake": ["Hazardous materials (chemicals, fuel, paint)", "Medical or biohazard waste", "Asbestos-containing materials"],
+      "heroImage": "https://static.wixstatic.com/media/5dcc7b_fffbc9505a0e479685f2ff396549d345~mv2.png"
+    },
+    {
+      "sortOrder": 4,
+      "title": "Tree & Brush Removal",
+      "slug": "tree-brush-removal",
+      "featured": true,
+      "tagline": "Fallen limbs, brush piles and tree debris cleared and hauled away.",
+      "intro": "Fallen limbs, brush piles and tree debris take up space and a lot of time. We clear them and haul everything away in one visit, with the crew and equipment to handle heavy loads. Pair it with a property or yard cleanup for a full reset of your space. You'll get a straight quote before we start. Request a free quote to get it cleared.",
+      "benefits": ["Cleared and hauled in one visit", "Crew and equipment for heavy loads", "Pairs with property and yard cleanup", "Straight quote before we start"],
+      "weTake": ["Fallen trees and large limbs", "Brush piles", "Cut logs and branches", "Leaves and yard waste", "Storm-damaged tree debris"],
+      "weCantTake": ["Hazardous materials", "Treated or painted lumber with chemical residue", "Medical or biohazard waste"],
+      "heroImage": "https://static.wixstatic.com/media/5dcc7b_628883aed3dc456fbbbba35ff285717a~mv2.png"
+    },
+    {
+      "sortOrder": 5,
+      "title": "Roofing Services",
+      "slug": "roofing-services",
+      "featured": false,
+      "tagline": "Roof repair, replacement and haul-away from a family-owned crew.",
+      "intro": "We handle roof repair and replacement and take the old roofing with us. Our family-owned crew works carefully, protects your property and leaves the site clean when we're done, with the old shingles and debris hauled away. Whether you need a repair or a full replacement, you'll get a straight quote before we start. Request a free quote for your roof.",
+      "benefits": ["Repair and replacement", "Old roofing hauled away", "Clean site when we leave", "Straight quote before we start"],
+      "weTake": ["Old shingles and roofing materials", "Underlayment and felt", "Flashing and roofing debris", "Decking and lumber from the job", "General roofing waste"],
+      "weCantTake": ["Hazardous materials", "Asbestos-containing roofing materials"],
+      "heroImage": "https://static.wixstatic.com/media/5dcc7b_93d86627851b4af887d67929699c62e5~mv2.png"
+    },
+    {
+      "sortOrder": 6,
+      "title": "Trash Can Sanitation",
+      "slug": "trash-can-cleaning",
+      "featured": false,
+      "tagline": "Fresh, sanitized trash cans, one-time or recurring.",
+      "intro": "Trash cans get dirty, smelly and attract pests. We clean and disinfect them so they're fresh again. Choose a one-time cleaning or a recurring schedule for your home or business. Request a free quote and we'll get your cans cleaned.",
+      "benefits": ["Cleaned and disinfected", "One-time or recurring service", "Homes and businesses", "Simple to request"],
+      "weTake": [],
+      "weCantTake": [],
+      "heroImage": "https://static.wixstatic.com/media/5dcc7b_e845da946f834268a7a172dc847fe39a~mv2.png"
+    },
+    {
+      "sortOrder": 7,
+      "title": "Dump Trailer Rentals",
+      "slug": "dump-trailer-rentals",
+      "featured": false,
+      "tagline": "Rent a dump trailer and do the job on your schedule.",
+      "intro": "Have a big project and want to haul it yourself? Rent a dump trailer and work on your own schedule. Great for cleanouts, remodels, yard projects and more. Ask us about available trailers, rental dates, and delivery or pickup, and request a free quote for your dates.",
+      "benefits": ["Flexible rental dates", "Delivery or pickup", "Great for big projects", "Request a FREE quote for your dates"],
+      "weTake": ["Household junk and cleanout items", "Construction and remodel debris", "Yard waste and brush", "Roofing and demolition debris"],
+      "weCantTake": ["Hazardous materials (paint, chemicals, fuel)", "Medical or biohazard waste", "Asbestos-containing materials"],
+      "heroImage": "https://static.wixstatic.com/media/5dcc7b_d8fb7bc727ae4ac99e191ca9dd81861e~mv2.png"
+    },
+    {
+      "sortOrder": 8,
+      "title": "Other Services",
+      "slug": "other-cleanup-property-services",
+      "featured": false,
+      "tagline": "Don't see it? Ask us. No job is too big or too small.",
+      "intro": "Not sure if we do what you need? Ask us. We take on a wide range of cleanup and property jobs across Central Texas, and no job is too big or too small. Tell us what you've got and request a free quote.",
+      "benefits": ["No job too big or too small", "Friendly, dependable service", "Straight quote before we start"],
+      "weTake": [],
+      "weCantTake": [],
+      "heroImage": "https://static.wixstatic.com/media/5dcc7b_24709f05f2e941a4a0b5ee4054f5a17b~mv2.png"
+    }
+  ]
+}
