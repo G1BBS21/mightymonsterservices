@@ -6,9 +6,8 @@ copy currently on the site; nobody has marked it approved.
 
 ## Service names
 
-Decided 2026-10-12: service 2 is **Construction & Demo Cleanup** everywhere (the home-card
-name). Services 6 and 8 still differ between the CMS and the quote form; that's open in
-`OPEN_ITEMS.md`.
+Decided by Chase 2026-10-12. All three places now use the same names. Service 2 takes the
+home-card name; services 6 and 8 take the CMS names.
 
 | # | CMS / Services page | Quote form dropdown | Home page cards |
 |---|---------------------|---------------------|-----------------|
@@ -17,9 +16,9 @@ name). Services 6 and 8 still differ between the CMS and the quote form; that's 
 | 3 | Property & Yard Cleanup | Property & Yard Cleanup | Property & Yard Cleanup |
 | 4 | Tree & Brush Removal | Tree & Brush Removal | — |
 | 5 | Roofing Services | Roofing Services | — |
-| 6 | **Trash Can Sanitation** | **Trash Can Cleaning & Disinfecting** | — |
+| 6 | Trash Can Sanitation | Trash Can Sanitation | — |
 | 7 | Dump Trailer Rentals | Dump Trailer Rentals | — |
-| 8 | **Other Services** | **Other** | — |
+| 8 | Other Services | Other Services | — |
 
 The home page cards also use taglines that differ from the CMS taglines. The CMS URL slug for
 service 2 stays `construction-demolition-cleanup` so existing links keep working.

@@ -7,9 +7,6 @@ Check items off here in the same commit that resolves them.
 
 - [ ] **Unpublish?** Chase confirmed the site is a **draft**, but Wix shows it as published on
       the free `cedarsphere.wixstudio.com` URL. Chase to unpublish it in Wix, or tell Claude to.
-- [ ] **Service names 6 and 8:** CMS says "Trash Can Sanitation" / "Other Services"; the quote
-      form says "Trash Can Cleaning & Disinfecting" / "Other". Pick one name for each.
-      (Service 2 decided: "Construction & Demo Cleanup".)
 - [ ] **Service copy approval:** `content/services.json` is current site copy, not marked
       approved. Send an approved copy deck if one exists.
 - [ ] Hours, licensing and insurance are unknown. Leave them off the site until confirmed.
