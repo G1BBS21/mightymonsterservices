@@ -6,14 +6,16 @@ Drawn from the copy already live on the site. Treat these as rules for any new c
 
 - **Mighty Monster Services** (legal name: Mighty Monster Hauling LLC).
 - **Family-owned and locally operated.**
-- Serving **Central Texas**: specifically McLennan, Hill and Bell counties. Only name
-  towns or counties in that confirmed area.
+- Serving **McLennan, Hill and Bell counties** in Central Texas. Name the three counties
+  wherever there's room; use "Central Texas" only where space is tight (SEO titles).
+  Don't name towns or counties outside that area.
 
 ## Core messages (use these phrases; don't paraphrase them away)
 
 - "No job too big or too small."
 - "Family-owned, locally operated."
-- "Get a free quote" is the primary call to action on every page.
+- **Get FREE Quote** is the primary call to action on every page. In running sentences,
+  "request a free quote" is fine.
 - "Straight quote before we start" / "a straight quote, no surprises."
 - Phone: **254-339-2243**. Format it exactly like that, with dashes. Invite people to
   "call or text".
@@ -32,7 +34,7 @@ Examples of the house style are in the live copy: `content/services.json` and `c
 
 | Context | Label | Goes to |
 |---------|-------|---------|
-| Primary button | Get a Free Quote (the FAQ says "Get FREE Quote"; label not yet settled, see `OPEN_ITEMS.md`) | `/contact` |
+| Primary button | **Get FREE Quote** (exact casing) | `/contact` |
 | Phone link | Call 254-339-2243 | `tel:+12543392243` |
 
 ## Naming

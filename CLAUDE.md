@@ -38,7 +38,9 @@ Read this file, then **`OPEN_ITEMS.md`**, before starting any task.
 
 - Wix site ID: `e28aadaa-fdee-42b6-92f9-32209c6a679e` · Editor: Wix Studio · Velo: **off**
 - Phone: 254-339-2243 (call or text) · Email: mightymonsterhauling@gmail.com
-- Primary CTA: "Get a Free Quote" → `/contact`
+- Primary CTA: **"Get FREE Quote"** → `/contact` · Service area copy: name **McLennan, Hill and
+  Bell counties** ("Central Texas" only where space is tight)
+- **The site is a draft.** It isn't ready to go live; publishing is Chase's call.
 - Brand colors: navy `#0E1023`, yellow `#FFD300`, red `#E21B4D` · Fonts: Bitter (headings),
   Open Sans (body). Never use theme grey `#717171` for body-size text (fails contrast).
 

@@ -26,7 +26,9 @@
         "name": "Wix Invoices",
         "appId": "13ee94c1-b635-8505-3391-97919052c16f"
       }
-    ]
+    ],
+    "intendedStatus": "draft",
+    "_statusNote": "Chase confirmed 2026-10-12 the site is a draft. Wix reported it as published on the free URL on 2026-10-12."
   },
   "regional": {
     "language": "en",

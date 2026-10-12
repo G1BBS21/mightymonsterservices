@@ -46,7 +46,7 @@ light backgrounds instead.
   breakpoint.
 - Every page ends with a quote CTA section (button to `/contact` plus the phone number).
 - The header should hold the logo, main nav (Home, Services, Projects, About Us, Contact) and a
-  "Get a Free Quote" button. The footer should hold the phone number, service area, Facebook link,
+  "Get FREE Quote" button. The footer should hold the phone number, service area, Facebook link,
   and links to the Privacy Policy, Terms & Conditions and Accessibility Statement.
 
 ## Images
@@ -57,5 +57,5 @@ Default social share image: `site/site.json` → `defaultShareImage`.
 ## Accessibility
 
 - Keep the Accessibility Statement page current.
-- Buttons and links need meaningful labels ("Get a Free Quote", not "Click here").
+- Buttons and links need meaningful labels ("Get FREE Quote", not "Click here").
 - Don't write the Accessibility Statement or other legal pages. They need client-approved text.

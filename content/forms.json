@@ -6,10 +6,26 @@
       "wixName": "My Form",
       "purpose": "Free quote request",
       "fields": [
-        { "target": "first_name", "label": "FIRST NAME", "required": true },
-        { "target": "last_name", "label": "LAST NAME", "required": true },
-        { "target": "email", "label": "EMAIL", "required": true },
-        { "target": "phone_18eb", "label": "PHONE", "required": false },
+        {
+          "target": "first_name",
+          "label": "FIRST NAME",
+          "required": true
+        },
+        {
+          "target": "last_name",
+          "label": "LAST NAME",
+          "required": true
+        },
+        {
+          "target": "email",
+          "label": "EMAIL",
+          "required": true
+        },
+        {
+          "target": "phone_18eb",
+          "label": "PHONE",
+          "required": false
+        },
         {
           "target": "service_needed",
           "label": "SERVICE NEEDED",
@@ -17,7 +33,7 @@
           "placeholder": "Choose one",
           "options": [
             "Hauling & Junk Removal",
-            "Construction & Demolition Cleanup",
+            "Construction & Demo Cleanup",
             "Property & Yard Cleanup",
             "Tree & Brush Removal",
             "Roofing Services",
@@ -26,7 +42,11 @@
             "Other"
           ]
         },
-        { "target": "message", "label": "MESSAGE", "required": false }
+        {
+          "target": "message",
+          "label": "MESSAGE",
+          "required": false
+        }
       ]
     },
     {
@@ -34,10 +54,26 @@
       "wixName": "Contact form",
       "purpose": "General contact",
       "fields": [
-        { "target": "first_name", "label": "FIRST NAME", "required": true },
-        { "target": "last_name", "label": "LAST NAME", "required": true },
-        { "target": "email", "label": "EMAIL", "required": true },
-        { "target": "message", "label": "MESSAGE", "required": true }
+        {
+          "target": "first_name",
+          "label": "FIRST NAME",
+          "required": true
+        },
+        {
+          "target": "last_name",
+          "label": "LAST NAME",
+          "required": true
+        },
+        {
+          "target": "email",
+          "label": "EMAIL",
+          "required": true
+        },
+        {
+          "target": "message",
+          "label": "MESSAGE",
+          "required": true
+        }
       ]
     }
   ]

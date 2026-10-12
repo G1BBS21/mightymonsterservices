@@ -4,14 +4,16 @@ Full copy for each service (tagline, intro, benefits, what we take and can't tak
 image) is in `services.json`, mirrored from the Wix CMS collection `Services`. It is the
 copy currently on the site; nobody has marked it approved.
 
-## The naming problem (open: needs Chase)
+## Service names
 
-The same services go by different names in three places on the site:
+Decided 2026-10-12: service 2 is **Construction & Demo Cleanup** everywhere (the home-card
+name). Services 6 and 8 still differ between the CMS and the quote form; that's open in
+`OPEN_ITEMS.md`.
 
 | # | CMS / Services page | Quote form dropdown | Home page cards |
 |---|---------------------|---------------------|-----------------|
 | 1 | Hauling & Junk Removal | Hauling & Junk Removal | Hauling & Junk Removal |
-| 2 | **Job Site Cleanup** | **Construction & Demolition Cleanup** | **Construction & Demo Cleanup** |
+| 2 | Construction & Demo Cleanup | Construction & Demo Cleanup | Construction & Demo Cleanup |
 | 3 | Property & Yard Cleanup | Property & Yard Cleanup | Property & Yard Cleanup |
 | 4 | Tree & Brush Removal | Tree & Brush Removal | — |
 | 5 | Roofing Services | Roofing Services | — |
@@ -19,8 +21,8 @@ The same services go by different names in three places on the site:
 | 7 | Dump Trailer Rentals | Dump Trailer Rentals | — |
 | 8 | **Other Services** | **Other** | — |
 
-The home page cards also use taglines that differ from the CMS taglines. Once Chase picks
-one name per service, make all three places match and record the names here.
+The home page cards also use taglines that differ from the CMS taglines. The CMS URL slug for
+service 2 stays `construction-demolition-cleanup` so existing links keep working.
 
 ## Adding or renaming a service
 
