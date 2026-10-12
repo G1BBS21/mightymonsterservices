@@ -40,7 +40,7 @@ Read this file, then **`OPEN_ITEMS.md`**, before starting any task.
 - Phone: 254-339-2243 (call or text) · Email: mightymonsterhauling@gmail.com
 - Primary CTA: "Get a Free Quote" → `/contact`
 - Brand colors: navy `#0E1023`, yellow `#FFD300`, red `#E21B4D` · Fonts: Bitter (headings),
-  Open Sans (body), Azeret Mono
+  Open Sans (body). Never use theme grey `#717171` for body-size text (fails contrast).
 
 ## Where things live
 

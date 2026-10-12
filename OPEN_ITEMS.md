@@ -23,13 +23,16 @@ Check items off here in the same commit that resolves them.
       or remove them.
 - [ ] Confirm AI imagery is acceptable at launch.
 - [ ] Favicon, Premium plan and domain connection (Chase handles these).
+- [ ] **Image shot list:** the old notes name `claude/higgsfield-shot-list.md` as the source of
+      truth for imagery, but it isn't in the repo or the Cowork session. If it's on Chase's
+      computer, add it to `design/`; otherwise `design/IMAGES.md` replaces it.
 
 ## Claude can do
 
-- [ ] Home service-card subtitles are low-contrast grey. Fix for accessibility.
+- [ ] Home service-card subtitles are low-contrast grey. Fix for accessibility. Theme grey
+      `#717171` fails AA for body text on every theme background; switch the subtitles to
+      Color 10 `#414141` (9.4:1 on `#F7F5F2`). See `design/DESIGN.md`.
 - [ ] Tablet layouts not fully checked on Services, About and Home.
-- [ ] Fill the remaining 7 colors, the color roles and the 9 text sizes in
-      `design/tokens.json` from Site Styles.
-- [ ] Add `claude/higgsfield-shot-list.md` (the shot list the Cowork notes call the
-      source of truth for imagery), or merge it into `design/IMAGES.md`. It isn't in this repo yet.
+- [ ] Confirm in Site Styles that headings use Bitter and body text uses Open Sans (recorded
+      from how the pages render, not from a setting).
 - [ ] Swap in real job photos when available.
