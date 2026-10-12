@@ -1,0 +1,44 @@
+{
+  "_note": "Wix Forms schemas on the site (namespace wix.form_app.form). Field targets are the submission keys.",
+  "forms": [
+    {
+      "formId": "a45b0c3b-70fe-4cf2-b332-636765977157",
+      "wixName": "My Form",
+      "purpose": "Free quote request",
+      "fields": [
+        { "target": "first_name", "label": "FIRST NAME", "required": true },
+        { "target": "last_name", "label": "LAST NAME", "required": true },
+        { "target": "email", "label": "EMAIL", "required": true },
+        { "target": "phone_18eb", "label": "PHONE", "required": false },
+        {
+          "target": "service_needed",
+          "label": "SERVICE NEEDED",
+          "required": false,
+          "placeholder": "Choose one",
+          "options": [
+            "Hauling & Junk Removal",
+            "Construction & Demolition Cleanup",
+            "Property & Yard Cleanup",
+            "Tree & Brush Removal",
+            "Roofing Services",
+            "Trash Can Cleaning & Disinfecting",
+            "Dump Trailer Rentals",
+            "Other"
+          ]
+        },
+        { "target": "message", "label": "MESSAGE", "required": false }
+      ]
+    },
+    {
+      "formId": "e01c0906-722a-475e-aec9-4b301eb6c496",
+      "wixName": "Contact form",
+      "purpose": "General contact",
+      "fields": [
+        { "target": "first_name", "label": "FIRST NAME", "required": true },
+        { "target": "last_name", "label": "LAST NAME", "required": true },
+        { "target": "email", "label": "EMAIL", "required": true },
+        { "target": "message", "label": "MESSAGE", "required": true }
+      ]
+    }
+  ]
+}

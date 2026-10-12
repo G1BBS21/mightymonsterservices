@@ -1,0 +1,29 @@
+{
+  "name": "Mighty Monster Services",
+  "wix": {
+    "siteId": "e28aadaa-fdee-42b6-92f9-32209c6a679e",
+    "editor": "Wix Studio",
+    "editorUrl": "https://cedarsphere-mighty-monster.editor.wix.com/studio/c23d6481-028e-4fb2-8eaf-07adfc764a06",
+    "liveUrl": "https://cedarsphere.wixstudio.com/mighty-monster",
+    "plan": "Free",
+    "velo": false,
+    "installedApps": [
+      { "name": "Promote SEO", "appId": "1480c568-5cbd-9392-5604-1148f5faffa0" },
+      { "name": "Wix Forms", "appId": "225dd912-7dea-4738-8688-4b8c6955ffc2" },
+      { "name": "Wix Hotels", "appId": "14bca956-e09f-f4d6-14d7-466cb3f09103" },
+      { "name": "Wix Invoices", "appId": "13ee94c1-b635-8505-3391-97919052c16f" }
+    ]
+  },
+  "regional": {
+    "language": "en",
+    "country": "US",
+    "timeZone": "America/Chicago",
+    "currency": "USD"
+  },
+  "contact": {
+    "phone": "254-339-2243",
+    "serviceArea": "Central Texas",
+    "facebook": "MightyMonsterHaulingLLC"
+  },
+  "defaultShareImage": "https://static.wixstatic.com/media/5dcc7b_5e2f946919894df199ebaa1b884d2f57~mv2.jpg"
+}

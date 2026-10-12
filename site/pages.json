@@ -1,0 +1,61 @@
+{
+  "_note": "Static pages on the Wix site. pageId is Wix's STATIC_PAGE item ID used by the SEO Tags API. Title/description here are the intended values; Wix is updated to match.",
+  "pages": [
+    {
+      "pageId": "c1dmp",
+      "name": "Home",
+      "path": "/",
+      "seoTitle": "Junk Removal & Hauling in Central Texas | Mighty Monster",
+      "seoDescription": "Family-owned, locally operated hauling, junk removal, cleanup and property services across Central Texas. No job too big or too small. Get a free quote today."
+    },
+    {
+      "pageId": "vbuf3",
+      "name": "Services",
+      "path": "/services",
+      "seoTitle": "Hauling, Cleanup & Property Services | Mighty Monster",
+      "seoDescription": "Junk removal, construction and yard cleanup, tree and brush removal, roofing, trash can cleaning and dump trailer rentals in Central Texas. Get a free quote."
+    },
+    {
+      "pageId": "ymg6a",
+      "name": "Projects",
+      "path": "/projects",
+      "seoTitle": "Hauling & Cleanup Projects | Mighty Monster Services",
+      "seoDescription": "See recent junk removal, cleanup and property projects completed by Mighty Monster Services across Central Texas. Request your free quote today."
+    },
+    {
+      "pageId": "qugfg",
+      "name": "About Us",
+      "path": "/about-us",
+      "seoTitle": "About Us | Family-Owned Hauling | Mighty Monster Services",
+      "seoDescription": "Learn about Mighty Monster Services, a family-owned and locally operated hauling and cleanup company serving Central Texas. No job too big or too small."
+    },
+    {
+      "pageId": "jjjdv",
+      "name": "Contact (Get a Free Quote)",
+      "path": "/contact",
+      "seoTitle": "Get a Free Quote | Mighty Monster Services",
+      "seoDescription": "Request a free hauling or cleanup quote from Mighty Monster Services. Call 254-339-2243 or send a message and we'll get back to you."
+    },
+    {
+      "pageId": "i17tk",
+      "name": "Privacy Policy",
+      "path": "/privacy-policy",
+      "seoTitle": "Privacy Policy | Mighty Monster Services",
+      "seoDescription": "Learn how Mighty Monster Services collects, uses and protects your information when you visit our website or request a free quote."
+    },
+    {
+      "pageId": "ct78j",
+      "name": "Terms & Conditions",
+      "path": "/terms-and-conditions",
+      "seoTitle": "Terms & Conditions | Mighty Monster Services",
+      "seoDescription": "Terms and conditions for using the Mighty Monster Services website and requesting hauling and cleanup services in Central Texas."
+    },
+    {
+      "pageId": "prcey",
+      "name": "Accessibility Statement",
+      "path": "/accessibility-statement",
+      "seoTitle": "Accessibility Statement | Mighty Monster Services",
+      "seoDescription": "Mighty Monster Services is committed to making our website accessible to everyone. Read our accessibility statement or contact us for help."
+    }
+  ]
+}
