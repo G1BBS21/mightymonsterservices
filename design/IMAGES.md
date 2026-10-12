@@ -1,8 +1,10 @@
 # Images
 
 All images live in **Wix Site Files**. The current set is 12 AI-generated images (Higgsfield),
-used until real job photos exist. Whether AI imagery is acceptable at launch still needs
-Chase's confirmation (see `OPEN_ITEMS.md`).
+**generated, in use, and approved by Chase as a stopgap** until real job photos exist. Whether
+they can stay up at launch is still open (see `OPEN_ITEMS.md`).
+
+This file replaces the old Higgsfield shot list (`docs/history/higgsfield-shot-list.md`).
 
 ## Asset map
 

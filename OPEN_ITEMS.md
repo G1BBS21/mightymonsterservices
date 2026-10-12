@@ -21,11 +21,9 @@ Check items off here in the same commit that resolves them.
       client-approved policy text.
 - [ ] Instagram and LinkedIn footer links point to Wix placeholder profiles. Need real URLs,
       or remove them.
-- [ ] Confirm AI imagery is acceptable at launch.
+- [ ] Confirm AI imagery is acceptable at launch. (Chase approved the 12 images as a stopgap;
+      launch use is a separate call.)
 - [ ] Favicon, Premium plan and domain connection (Chase handles these).
-- [ ] **Image shot list:** the old notes name `claude/higgsfield-shot-list.md` as the source of
-      truth for imagery, but it isn't in the repo or the Cowork session. If it's on Chase's
-      computer, add it to `design/`; otherwise `design/IMAGES.md` replaces it.
 
 ## Claude can do
 
