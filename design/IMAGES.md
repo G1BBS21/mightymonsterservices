@@ -9,20 +9,20 @@ This file replaces the old Higgsfield shot list (`docs/history/higgsfield-shot-l
 ## Real job photos (from Chase, 2026-10-12)
 
 Approved mapping. Alt text describes only what's shown (no towns or customers). Wix URLs are
-filled in once each photo is uploaded to Site Files.
+from Site Files (uploaded 2026-10-12).
 
 | Photo | File | Replaces | Alt text | Wix URL |
 |-------|------|----------|----------|---------|
-| R1 | `mighty-monster-truck-and-trailer-commercial-job.jpg` | About page photo (new) | Mighty Monsters Hauling pickup and dump trailer parked at a commercial job site | — |
-| R2 | `mighty-monster-rent-me-dump-trailer.jpg` | #8 Dump trailer; Projects tile 6 (was #7) | Loaded black dump trailer marked "Rent Me" with the phone number 254-339-2243 | — |
-| R3 | `mighty-monster-garage-demo-framing.jpg` | #3 C&D cleanup | Crew member working inside a garage stripped down to its wood framing | — |
-| R4 | `mighty-monster-brush-removal-trailer.jpg` | #5 Tree & brush | Trailer piled high with cut branches and brush between two houses | — |
-| R5 | `mighty-monster-junk-removal-load.jpg` | #2 Hauling couch | Trailer loaded with an old wooden rocking chair, cardboard boxes and household junk | — |
-| R6 | `mighty-monster-cleanout-load.jpg` | #9 Other cleanup | Dump trailer filled with trash bags, boxes and storage bins from a cleanout | — |
-| R7 | `mighty-monster-fence-debris-haul.jpg` | #4 Property & yard | Pickup bed loaded with old chain-link fencing, wire, lumber and a mattress | — |
-| R8 | `mighty-monster-branded-trailer-roof-job.jpg` | #1 Gritty hero (Home) | Mighty Monsters Hauling dump trailer beside a house during a roof replacement | — |
-| R9 | `mighty-monster-roofing-crew-dusk.jpg` | #6 Roofing | Roofer installing new shingles on a house at dusk | — |
-| R10 | `mighty-monster-roof-job-dusk-wide.jpg` | #11 Dusk band (Projects hero) | House with a freshly shingled roof at dusk, ladder against the wall | — |
+| R1 | `mighty-monster-truck-and-trailer-commercial-job.jpg` | About page photo (new) | Mighty Monsters Hauling pickup and dump trailer parked at a commercial job site | [f32b3d](https://static.wixstatic.com/media/5dcc7b_f32b3d667cfa4e83961e6f5baea756fc~mv2.jpg) |
+| R2 | `mighty-monster-rent-me-dump-trailer.jpg` | #8 Dump trailer; Projects tile 6 (was #7) | Loaded black dump trailer marked "Rent Me" with the phone number 254-339-2243 | [7e074f](https://static.wixstatic.com/media/5dcc7b_7e074fb5f07445e5b6ce2ebb7bd06cad~mv2.jpg) |
+| R3 | `mighty-monster-garage-demo-framing.jpg` | #3 C&D cleanup | Crew member working inside a garage stripped down to its wood framing | [affdcd](https://static.wixstatic.com/media/5dcc7b_affdcd721e1a4656b559f253ce2fc08c~mv2.jpg) |
+| R4 | `mighty-monster-brush-removal-trailer.jpg` | #5 Tree & brush | Trailer piled high with cut branches and brush between two houses | [f340ca](https://static.wixstatic.com/media/5dcc7b_f340ca9df42b4c4ca285fb45b9aa0e03~mv2.jpg) |
+| R5 | `mighty-monster-junk-removal-load.jpg` | #2 Hauling couch | Trailer loaded with an old wooden rocking chair, cardboard boxes and household junk | [a6197e](https://static.wixstatic.com/media/5dcc7b_a6197e3f2096430f8203758f05d8836c~mv2.jpg) |
+| R6 | `mighty-monster-cleanout-load.jpg` | #9 Other cleanup | Dump trailer filled with trash bags, boxes and storage bins from a cleanout | [94abd9](https://static.wixstatic.com/media/5dcc7b_94abd9cb00bf41a9a4af4735c461791f~mv2.jpg) |
+| R7 | `mighty-monster-fence-debris-haul.jpg` | #4 Property & yard | Pickup bed loaded with old chain-link fencing, wire, lumber and a mattress | [77ef97](https://static.wixstatic.com/media/5dcc7b_77ef97983c54475b8f82c0380c2135ac~mv2.jpg) |
+| R8 | `mighty-monster-branded-trailer-roof-job.jpg` | #1 Gritty hero (Home) | Mighty Monsters Hauling dump trailer beside a house during a roof replacement | [d6aec7](https://static.wixstatic.com/media/5dcc7b_d6aec752633a42688d3104bcb6702c82~mv2.jpg) |
+| R9 | `mighty-monster-roofing-crew-dusk.jpg` | #6 Roofing | Roofer installing new shingles on a house at dusk | [725421](https://static.wixstatic.com/media/5dcc7b_725421dd0dd749c0b75bb95051ba942d~mv2.jpg) |
+| R10 | `mighty-monster-roof-job-dusk-wide.jpg` | #11 Dusk band (Projects hero) | House with a freshly shingled roof at dusk, ladder against the wall | [51327d](https://static.wixstatic.com/media/5dcc7b_51327d0724b04d38b23a3ecf22cf1bcc~mv2.jpg) |
 
 AI images that stay for now: #7 Trash cans (Trash Can Sanitation service), #10 Family 3:2
 (Contact; About keeps it unless R1 replaces it there), #12 Mobile hero 4:5.
