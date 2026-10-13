@@ -24,6 +24,23 @@ from Site Files (uploaded 2026-10-12).
 | R9 | `mighty-monster-roofing-crew-dusk.jpg` | #6 Roofing | Roofer installing new shingles on a house at dusk | [725421](https://static.wixstatic.com/media/5dcc7b_725421dd0dd749c0b75bb95051ba942d~mv2.jpg) |
 | R10 | `mighty-monster-roof-job-dusk-wide.jpg` | #11 Dusk band (Projects hero) | House with a freshly shingled roof at dusk, ladder against the wall | [51327d](https://static.wixstatic.com/media/5dcc7b_51327d0724b04d38b23a3ecf22cf1bcc~mv2.jpg) |
 
+### Pro Galleries (updated via the Pro Gallery API)
+
+**Projects gallery** `00e39e82-921c-41cb-986d-89fd13975c64`. Tile titles use the service names:
+
+| Tile | Title | Photo |
+|------|-------|-------|
+| 1 | Hauling & Junk Removal (was "Garage Cleanout & Junk Removal") | R5 |
+| 2 | Construction & Demo Cleanup | R3 |
+| 3 | Property & Yard Cleanup | R7 |
+| 4 | Tree & Brush Removal | R4 |
+| 5 | Roofing Services (was "Roof Tear-Off & Haul-Away") | R9 |
+| 6 | Dump Trailer Rentals (was "Trash Can Cleaning & Disinfecting") | R2 |
+
+**Untitled 4-image gallery** `928457ef-c825-4d8c-9287-1dea62ffb618` (page placement not
+recorded; likely the Home Services/Projects strip): roofing → R9, tree & brush → R4,
+dump trailer → R2. The trash-can image stays AI.
+
 AI images that stay for now: #7 Trash cans (Trash Can Sanitation service), #10 Family 3:2
 (Contact; About keeps it unless R1 replaces it there), #12 Mobile hero 4:5.
 
