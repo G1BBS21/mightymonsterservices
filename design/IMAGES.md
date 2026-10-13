@@ -41,6 +41,8 @@ from Site Files (uploaded 2026-10-12).
 recorded; likely the Home Services/Projects strip): roofing → R9, tree & brush → R4,
 dump trailer → R2. The trash-can image stays AI.
 
+**Social share image** (site-level `og:image`) → R8.
+
 AI images that stay for now: #7 Trash cans (Trash Can Sanitation service), #10 Family 3:2
 (Contact; About keeps it unless R1 replaces it there), #12 Mobile hero 4:5.
 

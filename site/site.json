@@ -43,12 +43,13 @@
     "serviceArea": "McLennan, Hill and Bell counties, TX",
     "serviceAreaShort": "Central Texas"
   },
-  "defaultShareImage": "https://static.wixstatic.com/media/5dcc7b_5e2f946919894df199ebaa1b884d2f57~mv2.jpg",
+  "defaultShareImage": "https://static.wixstatic.com/media/5dcc7b_d6aec752633a42688d3104bcb6702c82~mv2.jpg",
   "unknown": {
     "_note": "Not confirmed by the client. Never put these on the site or invent them.",
     "hours": null,
     "licensing": null,
     "insurance": null
   },
-  "confirmedAsOf": "2026-10-01"
+  "confirmedAsOf": "2026-10-01",
+  "_defaultShareImageNote": "Real photo R8 (branded trailer at roof job), set 2026-10-13. Replaced 5dcc7b_5e2f946919894df199ebaa1b884d2f57~mv2.jpg (16:9, likely the AI hero)."
 }
