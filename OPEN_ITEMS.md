@@ -32,14 +32,12 @@ Check items off here in the same commit that resolves them.
 - [ ] Tablet layouts not fully checked on Services, About and Home.
 - [ ] Confirm in Site Styles that headings use Bitter and body text uses Open Sans (recorded
       from how the pages render, not from a setting).
-- [ ] **Place real photos in Studio** (they're in Site Files; the service images are done via
-      the CMS). Alt text for each is in `design/IMAGES.md`.
+- [ ] **Place the last real photos in Studio** (the Wix API can't reach these; the service images,
+      both Pro Galleries and the share image are done). Alt text is in `design/IMAGES.md`.
       - Home hero → `mighty-monster-branded-trailer-roof-job.jpg` (keep opacity 80)
       - Projects header (dusk band) → `mighty-monster-roof-job-dusk-wide.jpg`
-      - Projects gallery tiles 1–6 → `junk-removal-load`, `garage-demo-framing`,
-        `fence-debris-haul`, `brush-removal-trailer`, `roofing-crew-dusk`, `rent-me-dump-trailer`
-        (all prefixed `mighty-monster-`); update the captions to match
       - About page → `mighty-monster-truck-and-trailer-commercial-job.jpg`
+      - Note which page shows the untitled 4-image gallery, and record it in `design/IMAGES.md`
       - Then check desktop, tablet and mobile crops.
 - [ ] Still AI: Trash Can Sanitation image, family photo (Contact/About), mobile hero 4:5.
       Swap when real photos exist.
